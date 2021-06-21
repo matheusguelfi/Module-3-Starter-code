@@ -20,7 +20,7 @@ Jupyter Lab
 installation
  pip install jupyterlab
 
- Contributors
+
 Contributed by: Matheus Guelfi
 
 Email: matheusguelfi92@gmail.com
