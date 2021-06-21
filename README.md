@@ -18,7 +18,8 @@ Jupyter Lab
 
 
 installation
- pip install jupyterlab
+
+pip install jupyterlab
 
 
 Contributed by: Matheus Guelfi
